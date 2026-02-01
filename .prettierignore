@@ -1,0 +1,16 @@
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+tsconfig.json
+
+node_modules
+dist
+coverage
+.vscode
+.idea
+.vscode-test
+build
+out
+*.log
+*.tsbuildinfo
+*.tgz
